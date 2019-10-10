@@ -11,3 +11,5 @@
 [Yo Yhndi](https://github.com/Yhndi)
 
 [Franco Sanllehi](https://github.com/DmACKGL)
+
+[Samriddhi](https://github.com/samriddhi-99)
