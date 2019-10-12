@@ -13,3 +13,5 @@
 [Franco Sanllehi](https://github.com/DmACKGL)
 
 [Samriddhi](https://github.com/samriddhi-99)
+
+[Tripathi](https://github.com/tripathiii)
